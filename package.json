@@ -9,7 +9,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "build:docs": "npm run build -- --prod --output-path=docs"
+    "build:docs": "npm run build -- --prod --output-path=docs --base-href=/angular-calendar-sample-app/"
   },
   "private": true,
   "dependencies": {
